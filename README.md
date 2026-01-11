@@ -30,3 +30,4 @@ The following business questions were solved using sql queries:
 
 
  **Power BI dashboard**
+ https://github.com/HinnaAkhlaque/Customer-Behavior-Analysis-Project/blob/main/customer%20behavior%20dashboard.png
